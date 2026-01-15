@@ -1,0 +1,66 @@
+{
+  "proofpack_id": "MathGov_ProofPack_rev14.29_SGP4.1.1",
+  "generated_utc": "2026-01-15T10:02:03Z",
+  "canonical_tuple": [
+    "00_RELEASE_TUPLE_CANON/SGP_4.1.1_Canonical_Final.docx",
+    "00_RELEASE_TUPLE_CANON/MathGov_Foundation_5.0i_rev14.29_SGP4.1.1.docx",
+    "00_RELEASE_TUPLE_CANON/MathGov_Appendices_5.0i_rev14.29_SGP4.1.1.docx"
+  ],
+  "files": [
+    {
+      "path": "00_RELEASE_TUPLE_CANON/MathGov_Appendices_5.0i_rev14.29_SGP4.1.1.docx",
+      "sha256": "e776a576ed884fa3d9329468646407916b353f408b665ebd67ba186bf5bed090",
+      "bytes": 259142
+    },
+    {
+      "path": "00_RELEASE_TUPLE_CANON/MathGov_Foundation_5.0i_rev14.29_SGP4.1.1.docx",
+      "sha256": "6e867aafb26dd3a54a07045366091d85da12c75361daa47f444eef188fb350e8",
+      "bytes": 235648
+    },
+    {
+      "path": "00_RELEASE_TUPLE_CANON/SGP_4.1.1_Canonical_Final.docx",
+      "sha256": "ca4cff47a7b3f7e880f562ab8cb39e7666ed0b1d0b0ad3514ea805b4fc3950ad",
+      "bytes": 45612
+    },
+    {
+      "path": "01_PUBLIC_ARTIFACTS/Alignment Constitution Public.pdf",
+      "sha256": "551eea085a24937b534a5ec6e21f74a8f2fc63c53c8463e4c13a00b74e984a60",
+      "bytes": 4517
+    },
+    {
+      "path": "01_PUBLIC_ARTIFACTS/Alignment Test Case Library.pdf",
+      "sha256": "a71329b049a1cbb5879a0a1ee81e0cdcb9991e5741c1bc8d84e15c5dfe3c4d76",
+      "bytes": 148815
+    },
+    {
+      "path": "05_TEST_SUITES_AND_SCENARIOS/scenario_sets/animals/README.md",
+      "sha256": "a8a200e98bac53078e119dd46b4632bb438293984969c67f2b032dc6bcd40348",
+      "bytes": 85
+    },
+    {
+      "path": "05_TEST_SUITES_AND_SCENARIOS/scenario_sets/digital/README.md",
+      "sha256": "ce11f95db59a31a22b99bb6b2fcce7751df0ec15de3908213776a702dd183bb1",
+      "bytes": 85
+    },
+    {
+      "path": "05_TEST_SUITES_AND_SCENARIOS/scenario_sets/hybrid/README.md",
+      "sha256": "18a89db7a6adb4e35237fc83c1b22130d90ac6d622a14267c1f66f6697ac21d5",
+      "bytes": 84
+    },
+    {
+      "path": "06_INTEGRATION_NOTES/SGP_MathGov_Integration_Note_rev14.29.md",
+      "sha256": "4241041287435b2fb686dce78625da8bca6a3bb663b505877eb55d9c690efb0d",
+      "bytes": 211
+    },
+    {
+      "path": "99_ADMIN/RELEASE_NOTES_rev14.29.md",
+      "sha256": "b756e0929ef730e64b8c5d755a1bd146bcc55d31e93fc61191f6036a2368d02c",
+      "bytes": 118
+    },
+    {
+      "path": "README.md",
+      "sha256": "9678fcbf583fad0b8785b03f06cffe19b9cd1f5a223663f93eb9de82dbc7eb2b",
+      "bytes": 776
+    }
+  ]
+}
