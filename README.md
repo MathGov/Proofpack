@@ -1,28 +1,47 @@
-# MathGov Framework
+# MathGov ProofPack (Latest)
 
-MathGov is a universal ethical operating system for decision-making and governance in complex, interconnected systems.
+This repository contains the latest **MathGov v5.0i (rev14.29)** release bundle and its ProofPack artifacts for pilot-executable, audit-ready evaluation.
 
-This repository publishes the MathGov v5.0i framework materials for transparency, review, and verification.
+## Latest Canon (rev14.29)
 
-## Contents
+### Core Documents
+- **MathGov Foundation Paper** — `MathGov_Foundation_5.0i_rev14.29_FINAL_SYNCED.docx`
+- **MathGov Appendices** — `MathGov_Appendices_5.0i_rev14.29_FINAL_SYNCED.docx`
+- **Sentience Gradient Protocol (SGP 4.1.1)** — `SGP_4.1.1_PATCHED_READY_PUBLISH.docx`
 
-- **Foundation Paper**  
-  Core framework describing Union-Based Reality, the decision cascade, and ripple-aware welfare analysis.
+### Public Governance Artifacts
+- **Alignment Constitution (Public)** — `Alignment Constitution Public.pdf`
+- **Alignment Test Case Library** — `Alignment Test Case Library.pdf`
 
-- **Appendices**  
-  Formal definitions, constraints, metrics, and supporting material.
+### ProofPack
+- **ProofPack bundle (rev14.29)** — `MathGov_ProofPack_5.0i_rev14.29.zip`
 
-- **Alignment Documents**  
-  Public-facing alignment principles and evaluation guidance.
+## Recommended Repo Layout
 
-- **ProofPack**  
-  Audit and verification artifacts, including manifests and test cases used to evaluate alignment claims.
+```
+/latest/rev14.29/
+  MathGov_Foundation_5.0i_rev14.29_FINAL_SYNCED.docx
+  MathGov_Appendices_5.0i_rev14.29_FINAL_SYNCED.docx
+  SGP_4.1.1_PATCHED_READY_PUBLISH.docx
 
-## Status
+/governance/
+  Alignment Constitution Public.pdf
+  Alignment Test Case Library.pdf
 
-This repository represents the current public reference state of MathGov v5.0i.  
-Folder structure and documentation may be refined in subsequent commits without altering substantive content.
+/proofpack/rev14.29/
+  MathGov_ProofPack_5.0i_rev14.29.zip
+  SHA256SUMS.txt            (optional but recommended)
+  manifest.json             (if exported for convenience)
+```
 
-## License
+## Notes
 
-License information will be added in a future update.
+- The SGP file included here is the **patched** canonical release that standardizes:
+  - `SG_norm(H) = 1.0` (human rights plateau)
+  - `Stab(E)` as the stability gate (avoids notation collision with `S(E)`)
+
+## License & Use
+
+MathGov is intended as an open specification and governance framework.  
+Add your preferred license file at repo root if you want explicit GitHub license display (recommended).
+
