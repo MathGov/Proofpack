@@ -1,6 +1,6 @@
-# Latest Canon — MathGov v5.0i rev14.29
+# Historical Canon — MathGov v5.0i rev14.29
 
-This file is the single source of truth for **what is currently canonical** in this repository.
+This inventory describes **this historical edition only**. It is not the current MathGov Core. [Current RippleLogic v13.0](https://mathgov.github.io/ripple-logic/) has separate governing sources.
 
 ## Canon (normative) — rev14.29
 

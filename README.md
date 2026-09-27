@@ -1,47 +1,20 @@
-# MathGov ProofPack (Latest)
+# MathGov Proofpack — historical v5.0i rev14.29
 
-This repository contains the latest **MathGov v5.0i (rev14.29)** release bundle and its ProofPack artifacts for pilot-executable, audit-ready evaluation.
+**Historical research edition. This is not the current MathGov / RippleLogic release.** For current Core v13.0 / SGP v8.8, use [RippleLogic’s reading library](https://mathgov.github.io/ripple-logic/) and [current release](https://github.com/MathGov/ripple-logic/releases/tag/v13.0-20260926-release-i).
 
-## Latest Canon (rev14.29)
+This repository preserves the v5.0i rev14.29 documents and their original verification artifacts. Historical semantics and evidence boundaries apply only to that edition; they do not override the current Core.
 
-### Core Documents
-- **MathGov Foundation Paper** — `MathGov_Foundation_5.0i_rev14.29_FINAL_SYNCED.docx`
-- **MathGov Appendices** — `MathGov_Appendices_5.0i_rev14.29_FINAL_SYNCED.docx`
-- **Sentience Gradient Protocol (SGP 4.1.1)** — `SGP_4.1.1_PATCHED_READY_PUBLISH.docx`
+## Archive contents
 
-### Public Governance Artifacts
-- **Alignment Constitution (Public)** — `Alignment Constitution Public.pdf`
-- **Alignment Test Case Library** — `Alignment Test Case Library.pdf`
+- [Historical canonical documents](canon/rev14.29/)
+- [Proofpack bundle](proofpack/rev14.29/)
+- [Public companion materials](support/)
+- [Edition-specific inventory](LATEST_CANON.md)
+- [Verification instructions](VERIFY.md)
+- [Historical release](https://github.com/MathGov/Proofpack/releases/tag/v5.0i-rev14.29)
 
-### ProofPack
-- **ProofPack bundle (rev14.29)** — `MathGov_ProofPack_5.0i_rev14.29.zip`
+## Rights
 
-## Recommended Repo Layout
+No repository-wide open-source license has been established for this historical collection. Public availability alone does not grant reuse rights; consult any individual notices and contact [james@ripplelogic.org](mailto:james@ripplelogic.org) for permissions beyond applicable law. This clarification does not relicense third-party material or withdraw a license already expressly granted in an individual artifact.
 
-```
-/latest/rev14.29/
-  MathGov_Foundation_5.0i_rev14.29_FINAL_SYNCED.docx
-  MathGov_Appendices_5.0i_rev14.29_FINAL_SYNCED.docx
-  SGP_4.1.1_PATCHED_READY_PUBLISH.docx
-
-/governance/
-  Alignment Constitution Public.pdf
-  Alignment Test Case Library.pdf
-
-/proofpack/rev14.29/
-  MathGov_ProofPack_5.0i_rev14.29.zip
-  SHA256SUMS.txt            (optional but recommended)
-  manifest.json             (if exported for convenience)
-```
-
-## Notes
-
-- The SGP file included here is the **patched** canonical release that standardizes:
-  - `SG_norm(H) = 1.0` (human rights plateau)
-  - `Stab(E)` as the stability gate (avoids notation collision with `S(E)`)
-
-## License & Use
-
-MathGov is intended as an open specification and governance framework.  
-Add your preferred license file at repo root if you want explicit GitHub license display (recommended).
-
+Original publication files, release downloads and checksum evidence are preserved. The previous README is retained in [archive](archive/README-before-2026-09-28.md).
